@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "bullish-4dffd",
+    "production": "bullish-4dffd"
+  },
+  "targets": {},
+  "etags": {}
+}
